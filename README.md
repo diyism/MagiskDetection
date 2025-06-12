@@ -1,3 +1,5 @@
+只用 Native-root-detector-v6.5.7.apk 和 Momo-v4.4.1.apk, 参考: https://gist.github.com/diyism/aa8a9c4b7423c2d31714029cb326e75f
+
 # MagiskDetection
 Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
